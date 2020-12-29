@@ -3584,3 +3584,6 @@
 ||www.googleadservices.com^
 ||people-pa.googleapis.com^
 ||mtalk.google.com^
+||ade.googlesyndication.com^
+||pagead2.googlesyndication.com^
+||ad.doubleclick.net^
