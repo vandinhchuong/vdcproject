@@ -3582,3 +3582,5 @@
 ||zzhc.vnet.cn^
 ||securepubads.g.doubleclick.net^
 ||www.googleadservices.com^
+||people-pa.googleapis.com^
+||mtalk.google.com^
