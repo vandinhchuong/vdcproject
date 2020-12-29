@@ -3587,3 +3587,6 @@
 ||ade.googlesyndication.com^
 ||pagead2.googlesyndication.com^
 ||ad.doubleclick.net^
+||static.doubleclick.net^
+||g.doubleclick.net^
+||googleads.g.doubleclick.net^
