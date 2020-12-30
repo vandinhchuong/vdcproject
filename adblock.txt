@@ -3590,3 +3590,5 @@
 ||static.doubleclick.net^
 ||g.doubleclick.net^
 ||googleads.g.doubleclick.net^
+||www.google.com^
+||google.com^
